@@ -1,2 +1,2 @@
-# Xtep-nWebpage
-Página Web para la hacienda Xtepén proyectop de ingeniería de software
+# XtepenWebpage
+Página Web para la hacienda Xtepén proyecto de ingeniería de software
