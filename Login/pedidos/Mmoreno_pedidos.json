@@ -1,0 +1,143 @@
+[
+    {
+        "folio": "65688d890ceab",
+        "fecha": "2023-11-30 14:26:33",
+        "usuario": "Mmoreno",
+        "email": "kaussaiph@gmail.com",
+        "direccion": "Calle 33 #414 Cumbres",
+        "productos": [
+            {
+                "nombre": "Buenos d\u00edas alegr\u00eda",
+                "descrip": "Buenos d\u00edas y un c\u00f3ctel de frutas",
+                "precio": "$120",
+                "cantidad": 1,
+                "menu": {
+                    "nombre": "Buenos d\u00edas alegr\u00eda",
+                    "precio": 120,
+                    "cantidad": 1,
+                    "subtotal": 120
+                }
+            },
+            {
+                "nombre": "Champi\u00f1e\u00f1os",
+                "descrip": "Una crujiente ensalada C\u00e9sar con pechuga de pollo a la parrilla, lechuga romana fresca, crutones de pan integral y aderezo C\u00e9sar casero. Incluye una bebida de elecci\u00f3n: agua, t\u00e9 helado o refresco.",
+                "precio": "$10.99",
+                "cantidad": 1,
+                "menu": {
+                    "nombre": "Champi\u00f1e\u00f1os",
+                    "precio": 10.99,
+                    "cantidad": 1,
+                    "subtotal": 10.99
+                }
+            }
+        ],
+        "total": 130.99,
+        "estatus": "pendiente"
+    },
+    {
+        "folio": "6568aaa9c52d3",
+        "fecha": "2023-11-30 16:30:49",
+        "usuario": "Mmoreno",
+        "email": "123@gmail.com",
+        "direccion": "123",
+        "productos": [
+            {
+                "nombre": "Buenos d\u00edas alegr\u00eda",
+                "descrip": "Buenos d\u00edas y un c\u00f3ctel de frutas",
+                "precio": "$120",
+                "cantidad": 3,
+                "menu": {
+                    "nombre": "Buenos d\u00edas alegr\u00eda",
+                    "precio": 120,
+                    "cantidad": 3,
+                    "subtotal": 360
+                }
+            },
+            {
+                "nombre": "Champi\u00f1e\u00f1os",
+                "descrip": "Una crujiente ensalada C\u00e9sar con pechuga de pollo a la parrilla, lechuga romana fresca, crutones de pan integral y aderezo C\u00e9sar casero. Incluye una bebida de elecci\u00f3n: agua, t\u00e9 helado o refresco.",
+                "precio": "$10.99",
+                "cantidad": 1,
+                "menu": {
+                    "nombre": "Champi\u00f1e\u00f1os",
+                    "precio": 10.99,
+                    "cantidad": 1,
+                    "subtotal": 10.99
+                }
+            },
+            {
+                "nombreb": "Mi boda perfecta",
+                "descripb": "Restaurante es la opci\u00f3n perfecta para realizar eventos elegantes e \u00edntimos.\r\nContamos con tres hermosas \u00e1reas dise\u00f1adas con un estilo exclusivo ideal para tu evento.\r\nSe incluye la banquetera con sus respectivos platillos adem\u00e1s de 50 personas de se",
+                "preciob": "$150000",
+                "cantidad": 1,
+                "banquete": {
+                    "nombre": "Mi boda perfecta",
+                    "precio": 150000,
+                    "cantidad": 1,
+                    "subtotal": 150000
+                }
+            }
+        ],
+        "total": 150370.99,
+        "estatus": "pendiente"
+    },
+    {
+        "folio": "6568af116596f",
+        "fecha": "2023-11-30 16:49:37",
+        "usuario": "Mmoreno",
+        "email": "123@gmail.com",
+        "direccion": "231",
+        "productos": [
+            {
+                "nombre": "Buenos d\u00edas alegr\u00eda",
+                "descrip": "Buenos d\u00edas y un c\u00f3ctel de frutas",
+                "precio": "$120",
+                "cantidad": 4,
+                "menu": {
+                    "nombre": "Buenos d\u00edas alegr\u00eda",
+                    "precio": 120,
+                    "cantidad": 4,
+                    "subtotal": 480
+                }
+            },
+            {
+                "nombre": "Champi\u00f1e\u00f1os",
+                "descrip": "Una crujiente ensalada C\u00e9sar con pechuga de pollo a la parrilla, lechuga romana fresca, crutones de pan integral y aderezo C\u00e9sar casero. Incluye una bebida de elecci\u00f3n: agua, t\u00e9 helado o refresco.",
+                "precio": "$10.99",
+                "cantidad": 1,
+                "menu": {
+                    "nombre": "Champi\u00f1e\u00f1os",
+                    "precio": 10.99,
+                    "cantidad": 1,
+                    "subtotal": 10.99
+                }
+            },
+            {
+                "nombreb": "Mi boda perfecta",
+                "descripb": "Restaurante es la opci\u00f3n perfecta para realizar eventos elegantes e \u00edntimos.\r\nContamos con tres hermosas \u00e1reas dise\u00f1adas con un estilo exclusivo ideal para tu evento.\r\nSe incluye la banquetera con sus respectivos platillos adem\u00e1s de 50 personas de se",
+                "preciob": "$150000",
+                "cantidad": 1,
+                "banquete": {
+                    "nombre": "Mi boda perfecta",
+                    "precio": 150000,
+                    "cantidad": 1,
+                    "subtotal": 150000
+                }
+            },
+            {
+                "nombreb": "Mi boda al estilo azteca",
+                "descripb": "Zona con psicina es la opci\u00f3n perfecta para realizar eventos divertidos.\r\nContamos con tres hermosas \u00e1reas dise\u00f1adas con un estilo exclusivo ideal para tu evento.\r\nSe incluye la banquetera con sus respectivos platillos adem\u00e1s de 100 personas de servi",
+                "preciob": "325000",
+                "cantidad": 1,
+                "banquete": {
+                    "nombre": "Mi boda al estilo azteca",
+                    "precio": 325000,
+                    "cantidad": 1,
+                    "subtotal": 325000
+                }
+            }
+        ],
+        "total": 475490.99,
+        "estatus": "pendiente"
+    }
+]
